@@ -56,6 +56,10 @@ Technologies will vary depending on the version of the project.
 - Sass
 - Other web development technologies
 
+## Resources
+
+- [Font Awesome](https://fontawesome.com/) — Icons used in the project.
+
 ## Installation
 
 Clone the repository:
