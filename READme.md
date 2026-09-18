@@ -69,6 +69,16 @@ Open the desired project version and run it using your preferred development env
 
 For versions that require additional dependencies, follow the installation instructions provided in their respective project folders.
 
+## Design Reference
+
+The initial body design was inspired by [RV App Studios' Smart Calc: Daily Calculator](https://www.rvappstudios.com/smart-calc-daily-calculator-120.html)
+
+The initial button design was inspired by [Calculator - Calculator Plus](https://play.google.com/store/apps/details?id=com.eco.calculator).
+
+The reference was used as a visual guide while creating my own implementation.
+
+Reference images used during development are stored in the `public/` folder.
+
 ## Screenshots / Demo
 
 Screenshots, GIFs, videos, and live demos will be added as the project develops.
