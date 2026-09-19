@@ -1,6 +1,6 @@
 # Calculator App
 
-A calculator web application developed as a practice project to improve my web development and programming skills.
+> A calculator web application developed as a practice project to improve my web development and programming skills.
 
 ## Description
 
@@ -86,6 +86,14 @@ Reference images used during development are stored in the `public/` folder.
 ## Screenshots / Demo
 
 Screenshots, GIFs, videos, and live demos will be added as the project develops.
+
+### Screenshots
+
+![Screenshot](path/to/screenshot.png)
+
+### Live Demo
+
+[View Live Demo](live-demo-url)
 
 ## Contribution
 
