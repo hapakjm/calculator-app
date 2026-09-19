@@ -63,3 +63,22 @@ img {
 html {
   scrollbar-width: none;
 }
+
+body {
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+}
+
+main {
+  width: 500px;
+  max-width: 500px;
+  aspect-ratio: 1 / 1.5;
+  border: 10px solid var(--border);
+  border-radius: 40px;
+  corner-shape: squircle;
+}
