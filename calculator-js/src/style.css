@@ -127,3 +127,9 @@ main {
   height: 25px;
   background-color: var(--text);
 }
+
+.display-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
